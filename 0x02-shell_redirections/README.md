@@ -1,1 +1,1 @@
-god abeg
+ God abeg
