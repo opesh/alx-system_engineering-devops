@@ -1,0 +1,4 @@
+#!/usr/bin/env bash 
+# force kill highlander script
+
+pkill -f -SIGKILL 7-highlander
